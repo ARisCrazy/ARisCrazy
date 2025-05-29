@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ARisCrazy
 - 👀 I’m interested in Gaming, Computer stuff, and a little coding.
-- 🌱 I’m currently learning c++ and Adv.PHP
+- 🌱 I’m currently learning JAVA
 - ⚡ Fun fact: I play Valorant
 
 <!---
